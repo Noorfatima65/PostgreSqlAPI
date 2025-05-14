@@ -1,4 +1,4 @@
-const Link = "https://solid-memory-4j64gpj6wxr5c7964-5005.app.github.dev/country";
+const Link = "https://supreme-goldfish-x5x69g5xp5q73v4xj-5005.app.github.dev/country";
 
 fetch(Link).then(response=>{
     if(!response.ok){
